@@ -1,0 +1,96 @@
+# Optimized display images; original photographs remain in assets/img/moments/.
+- image: "/assets/img/moments/thumbs/Vegas_sphere.webp"
+  caption: "Las Vegas Sphere"
+  alt: "The illuminated Las Vegas Sphere above a street with evening traffic."
+  width: 640
+  height: 480
+
+- image: "/assets/img/moments/thumbs/oceanside4.webp"
+  caption: "Oceanside"
+  alt: "Shorebirds gathered on the wet sand in golden evening light."
+  width: 640
+  height: 480
+
+- image: "/assets/img/moments/thumbs/LaJolla_shore3.webp"
+  caption: "La Jolla Shore"
+  alt: "The setting sun beside a pier with people in the surf below."
+  width: 640
+  height: 480
+
+- image: "/assets/img/moments/thumbs/lone_rock.webp"
+  caption: "Lone Rock"
+  alt: "Lone Rock reflected in still water beneath a blue sky."
+  width: 640
+  height: 480
+
+- image: "/assets/img/moments/thumbs/grand_cayon.webp"
+  caption: "Grand Canyon"
+  alt: "Sunlit Grand Canyon cliffs framed by trees."
+  width: 640
+  height: 853
+
+- image: "/assets/img/moments/thumbs/horseshoe2.webp"
+  caption: "Horseshoe Bend"
+  alt: "The Colorado River curving around the cliffs at Horseshoe Bend."
+  width: 640
+  height: 480
+
+- image: "/assets/img/moments/thumbs/oceanside2.webp"
+  caption: "Oceanside"
+  alt: "Boats moored beside the Oceanside sign along the harbor."
+  width: 640
+  height: 480
+
+- image: "/assets/img/moments/thumbs/oceanside3.webp"
+  caption: "Oceanside"
+  alt: "Golden sunlight over the water and a palm-lined point in Oceanside."
+  width: 640
+  height: 480
+
+- image: "/assets/img/moments/thumbs/oceanside1.webp"
+  caption: "Oceanside"
+  alt: "Circular patterns drawn in the sand along Oceanside beach."
+  width: 640
+  height: 480
+
+- image: "/assets/img/moments/thumbs/birthday1.webp"
+  caption: "25th Birthday"
+  alt: "Blowing out the candles on a birthday cake."
+  width: 640
+  height: 360
+
+- image: "/assets/img/moments/thumbs/birthday2.webp"
+  caption: "25th Birthday"
+  alt: "Smiling beside a birthday cake lit with candles."
+  width: 640
+  height: 360
+
+- image: "/assets/img/moments/thumbs/LaJolla_shore1.webp"
+  caption: "La Jolla Shore"
+  alt: "A palm-lined street leading toward the ocean at dusk in La Jolla."
+  width: 640
+  height: 480
+
+- image: "/assets/img/moments/thumbs/Tijuana1.webp"
+  caption: "Tijuana"
+  alt: "Seabirds flying over a beach in Tijuana under a cloudy sky."
+  width: 640
+  height: 480
+
+- image: "/assets/img/moments/thumbs/Tijuana2.webp"
+  caption: "Tijuana"
+  alt: "People walking beside the ocean with buildings lining the Tijuana beachfront."
+  width: 640
+  height: 480
+
+- image: "/assets/img/moments/thumbs/yosemite1.webp"
+  caption: "Yosemite"
+  alt: "Yosemite Valley framed by granite cliffs beneath a blue sky."
+  width: 640
+  height: 480
+
+- image: "/assets/img/moments/thumbs/yosemite2.webp"
+  caption: "Yosemite"
+  alt: "A waterfall descending a granite cliff above trees and boulders in Yosemite."
+  width: 640
+  height: 480

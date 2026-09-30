@@ -1,0 +1,14 @@
+experience:
+  - organization: Mofakham-Mikell Lab
+    institution: Stony Brook University
+    role: Graduate Research Assistant
+    dates: Jun 2026 – Sep 2026
+    supervisor_label: Supervisors
+    supervisor: Sima Mofakham and Petar Djuric
+    focus: Video-language model post-training and video-based clinical risk forecasting.
+  - organization: Mobile Sensing and Ubiquitous Computing Lab
+    institution: UMass Amherst & UC San Diego
+    role: Graduate Research Assistant
+    dates: Apr 2024 – Apr 2025
+    supervisor: Tauhidur Rahman
+    focus: Event-based vision, synthetic event generation, and continuous motion estimation.

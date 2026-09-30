@@ -1,0 +1,146 @@
+- id: student-curriculum
+  title: "Less Data, Better Timing: Student–Curriculum Coupling for VLM On-Policy Distillation in Temporal Video Grounding"
+  venue: arXiv preprint
+  year: 2026
+  authors:
+    - name: Jiacheng Qiu
+      highlight: true
+    - name: Yunsoo Kim
+    - name: Ruichen Xu
+    - name: Jian Luo
+    - name: Petar Djuric
+    - name: Sima Mofakham
+  image: /assets/img/publications/student-curriculum.png
+  image_width: 2000
+  image_height: 928
+  image_alt: "Student-curriculum coupling diagram showing the acquisition, reactivation, and suspension of training examples during selective on-policy distillation."
+
+- id: icu-trace
+  title: "ICU-TRACE: Forecasting of Agitation in the ICU Setting from Bedside Video Using a Temporal Risk-Aware Causal Encoder"
+  venue: bioRxiv preprint
+  year: 2026
+  authors:
+    - name: Noah Lubin
+      equal_contribution: true
+    - name: Yunsoo Kim
+      equal_contribution: true
+    - name: Jiacheng Qiu
+      equal_contribution: true
+      highlight: true
+    - name: Yindong Hua
+    - name: Seyed Morsal Mosallami Aghili
+    - name: Alfonse Mazzarella
+    - name: Carla Vanessa Myslborki Roncancio
+    - name: Aniket Singh
+    - name: Nipun Irabatti
+    - name: Sujith Swarna
+    - name: Chiemeka Uwakwe
+    - name: Jermaine Robertson
+    - name: Alisha Ahsan
+    - name: Catherine Walsh
+    - name: Charles Mikell
+    - name: Petar Djuric
+    - name: Sima Mofakham
+  contribution_note: "* Co-first authors"
+  image: /assets/img/publications/icu-trace.png
+  image_width: 1244
+  image_height: 684
+  image_alt: "ICU-TRACE pipeline showing self-supervised bedside-video encoding, embedding alignment, and causal risk-trajectory forecasting."
+
+- id: confidence-inflation
+  title: "Confidence Inflation from RL Post-Training in Video Language Models"
+  venue: arXiv preprint
+  year: 2026
+  authors:
+    - name: Yunsoo Kim
+    - name: Jiacheng Qiu
+      highlight: true
+    - name: Petar Djuric
+    - name: Sima Mofakham
+  image: /assets/img/publications/confidence-inflation.png
+  image_width: 2000
+  image_height: 677
+  image_alt: "Automation rate and error rate across confidence thresholds, comparing SFT, untreated RL, and RL with RMA."
+
+- id: opd-safety
+  title: "Does On-Policy Distillation for Safety Pose Backdoor Risks?"
+  venue: arXiv preprint
+  year: 2026
+  authors:
+    - name: Jian Luo
+    - name: Kehan Qi
+    - name: Qingqiao Hu
+    - name: Meilong Xu
+    - name: Jiacheng Qiu
+      highlight: true
+    - name: Wenbin Lyu
+    - name: Jiawei Zhou
+    - name: Chao Chen
+  image: /assets/img/publications/opd-safety.png
+  image_width: 2000
+  image_height: 821
+  image_alt: "On-policy distillation diagram showing student rollouts, feedback from a backdoored teacher, and student updates through a KL reward."
+
+- id: pde-obs
+  title: "PDE-OBS: Controlled Evaluation Across Observation Patterns"
+  venue: arXiv preprint
+  year: 2026
+  authors:
+    - name: Ruichen Xu
+    - name: Siyao Wang
+    - name: Fang Wan
+    - name: Jiacheng Qiu
+      highlight: true
+    - name: Wenhan Gao
+    - name: Jiaxing Zhang
+    - name: Linsey Pang
+    - name: Ravid Shwartz Ziv
+    - name: Yann LeCun
+    - name: Yuefan Deng
+  image: /assets/img/publications/pde-obs.png
+  image_width: 960
+  image_height: 540
+  image_alt: "PDE-OBS overview showing controlled PDE datasets, observation patterns, and evaluation across distribution shifts."
+
+- id: scope
+  title: "SCOPE: Observation-Conditioned Full-Target Prediction for Sparse PDE Inference"
+  venue: arXiv preprint
+  year: 2026
+  authors:
+    - name: Ruichen Xu
+    - name: Siyao Wang
+    - name: Fang Wan
+    - name: Jiacheng Qiu
+      highlight: true
+    - name: Wenhan Gao
+    - name: Jiaxing Zhang
+    - name: Linsey Pang
+    - name: Ravid Shwartz Ziv
+    - name: Prakhar Mehrotra
+    - name: Yann LeCun
+    - name: Yuefan Deng
+  image: /assets/img/publications/scope.jpg
+  image_width: 1582
+  image_height: 890
+  image_alt: "SCOPE overview showing changing observation coverage and full-field supervision for sparse PDE reconstruction."
+
+- id: labits
+  title: "Labits: Layered Bidirectional Time Surfaces Representation for Event Camera-based Continuous Dense Trajectory Estimation"
+  venue: arXiv preprint
+  year: 2024
+  authors:
+    - name: Zhongyang Zhang
+      equal_contribution: true
+    - name: Jiacheng Qiu
+      equal_contribution: true
+      highlight: true
+    - name: Shuyang Cui
+    - name: Yijun Luo
+    - name: Tauhidur Rahman
+  contribution_note: "* Co-first authors"
+  image: /assets/img/labits.png
+  image_width: 3092
+  image_height: 1260
+  image_alt: "Labits representation overview, showing layered bidirectional time surfaces and motion examples from event-camera data."
+  paper_url: https://arxiv.org/abs/2412.08849
+  pdf_url: https://arxiv.org/pdf/2412.08849

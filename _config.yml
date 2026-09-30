@@ -1,52 +1,28 @@
-url: "https://j8chiu.github.io/"
-baseurl: /j8chiu.github.io
-
+url: "https://j8chiu.github.io"
+baseurl: ""
 title: Jiacheng Qiu
-
-position:  Student
-
-affiliation: Halıcıoğlu Data Science Institute, University of California, San Diego
-
-affiliation_link: https://datascience.ucsd.edu
-
-email: j8qiu@ucsd.edu
-
-
-# Search Engine Optimization (SEO)
-# The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
-
-# Links 
-# If you don't need one of them, you may delete the corresponding line.
-google_scholar:
-cv_link: assets/files/Jiacheng_PhD_Applicant_CV.pdf
+lang: en-US
+position: Ph.D. Student in Data Science
+affiliation: Stony Brook University
+affiliation_link: https://www.stonybrook.edu/
+departments:
+  - Department of Applied Mathematics & Statistics
+  - Department of Computer Science
+email: jiacheng.qiu.1@stonybrook.edu
+description: "Jiacheng Qiu is a Ph.D. student in Data Science at Stony Brook University. Research interests include multimodal large language models, video understanding, agentic AI, motion analysis, and clinical applications of AI."
+keywords: Jiacheng Qiu, multimodal large language models, video understanding, agentic AI, motion analysis, clinical AI, Stony Brook University
 github_link: https://github.com/j8chiu
 linkedin: https://www.linkedin.com/in/jiacheng-qiu-17361b1a0/
-# twitter: https://twitter.com/tedddddy_zhang
+avatar: /assets/img/ID_Photo.jpg
+# Source: https://www.stonybrook.edu/commcms/_resources/favicon/apple-touch-icon.png
+favicon: /assets/img/sbu-icon.png
+last_updated: "September 2026"
 
-# Images (e.g., your profile picture and your website's favicon) 
-# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/ID_Photo.jpg
-# logo: ./assets/img/logo_hkust.png
-favicon: ./assets/img/image.png
-favicon_dark: ./assets/img/image.png
-
-# Footnote
-# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: false
-
-# Google Analytics ID
-# Please remove this if you don't use Google Analytics
-# google_analytics: UA-111540567-4
-
-# Use this project as a remote theme for GitHub Pages
-# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
-remote_theme: yaoyao-liu/minimal-light
-
-# The following files will be removed from the generated website.
+# Active layouts and styles are local. Never publish source documents.
 exclude:
+  - assets/files
+  - _site
+  - CNAME
   - Gemfile
   - Gemfile.lock
   - README.md
@@ -55,3 +31,7 @@ exclude:
   - README_de.md
   - LICENSE
   - minimal-light.gemspec
+  - scripts
+  - vendor
+  - .bundle
+  - .DS_Store

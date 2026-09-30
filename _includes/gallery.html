@@ -1,0 +1,23 @@
+<section id="moments" class="life-moments" aria-labelledby="moments-heading">
+  <h2 id="moments-heading">Photographs</h2>
+  <p class="gallery-intro">A few moments from travels and everyday life.</p>
+  <div class="moments-grid moments-preview">
+    {% for moment in site.data.moments limit:3 %}
+    <figure class="moment">
+      <img src="{{ moment.image | relative_url }}" alt="{{ moment.alt | escape }}" width="{{ moment.width }}" height="{{ moment.height }}" loading="lazy" decoding="async">
+      <figcaption class="moment-caption">{{ moment.caption | escape }}</figcaption>
+    </figure>
+    {% endfor %}
+  </div>
+  <details class="more-moments">
+    <summary><span class="when-collapsed">View all {{ site.data.moments.size }} photographs</span><span class="when-expanded">Show fewer photographs</span></summary>
+    <div class="moments-grid">
+      {% for moment in site.data.moments offset:3 %}
+      <figure class="moment">
+        <img src="{{ moment.image | relative_url }}" alt="{{ moment.alt | escape }}" width="{{ moment.width }}" height="{{ moment.height }}" loading="lazy" decoding="async">
+        <figcaption class="moment-caption">{{ moment.caption | escape }}</figcaption>
+      </figure>
+      {% endfor %}
+    </div>
+  </details>
+</section>
