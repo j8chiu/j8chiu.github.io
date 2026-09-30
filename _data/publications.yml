@@ -8,7 +8,7 @@
     - name: Yunsoo Kim
     - name: Ruichen Xu
     - name: Jian Luo
-    - name: Petar Djuric
+    - name: Petar M. Djurić
     - name: Sima Mofakham
   image: /assets/img/publications/student-curriculum.png
   image_width: 2000
@@ -39,7 +39,7 @@
     - name: Alisha Ahsan
     - name: Catherine Walsh
     - name: Charles Mikell
-    - name: Petar Djuric
+    - name: Petar M. Djurić
     - name: Sima Mofakham
   contribution_note: "* Co-first authors"
   image: /assets/img/publications/icu-trace.png
@@ -55,7 +55,7 @@
     - name: Yunsoo Kim
     - name: Jiacheng Qiu
       highlight: true
-    - name: Petar Djuric
+    - name: Petar M. Djurić
     - name: Sima Mofakham
   image: /assets/img/publications/confidence-inflation.png
   image_width: 2000
