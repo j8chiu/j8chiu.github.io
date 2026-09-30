@@ -101,6 +101,8 @@
   image_width: 960
   image_height: 540
   image_alt: "PDE-OBS overview showing controlled PDE datasets, observation patterns, and evaluation across distribution shifts."
+  paper_url: https://arxiv.org/abs/2609.36521
+  pdf_url: https://arxiv.org/pdf/2609.36521
 
 - id: scope
   title: "SCOPE: Observation-Conditioned Full-Target Prediction for Sparse PDE Inference"
@@ -123,6 +125,8 @@
   image_width: 1582
   image_height: 890
   image_alt: "SCOPE overview showing changing observation coverage and full-field supervision for sparse PDE reconstruction."
+  paper_url: https://arxiv.org/abs/2609.36527
+  pdf_url: https://arxiv.org/pdf/2609.36527
 
 - id: labits
   title: "Labits: Layered Bidirectional Time Surfaces Representation for Event Camera-based Continuous Dense Trajectory Estimation"
