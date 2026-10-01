@@ -77,6 +77,20 @@
   white-space: nowrap;
 }
 
+.publications-section .publication-authors a {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-color: var(--page-line);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+.publications-section .publication-authors a:hover,
+.publications-section .publication-authors a:focus-visible {
+  color: var(--page-accent);
+  text-decoration-color: currentColor;
+}
+
 .publications-section .publication-authors sup {
   position: relative;
   top: -0.2em;
