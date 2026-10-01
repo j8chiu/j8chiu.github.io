@@ -14,6 +14,8 @@
   image_width: 2000
   image_height: 928
   image_alt: "Student-curriculum coupling diagram showing the acquisition, reactivation, and suspension of training examples during selective on-policy distillation."
+  paper_url: https://arxiv.org/abs/2609.40055
+  pdf_url: https://arxiv.org/pdf/2609.40055
 
 - id: icu-trace
   title: "ICU-TRACE: Forecasting of Agitation in the ICU Setting from Bedside Video Using a Temporal Risk-Aware Causal Encoder"
