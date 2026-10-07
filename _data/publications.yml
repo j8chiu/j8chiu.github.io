@@ -75,13 +75,15 @@
     - name: Meilong Xu
     - name: Jiacheng Qiu
       highlight: true
-    - name: Wenbin Lyu
+    - name: Weimin Lyu
     - name: Jiawei Zhou
     - name: Chao Chen
   image: /assets/img/publications/opd-safety.png
   image_width: 2000
   image_height: 821
   image_alt: "On-policy distillation diagram showing student rollouts, feedback from a backdoored teacher, and student updates through a KL reward."
+  paper_url: https://arxiv.org/abs/2610.07654
+  pdf_url: https://arxiv.org/pdf/2610.07654
 
 - id: pde-obs
   title: "PDE-OBS: Controlled Evaluation Across Observation Patterns"
